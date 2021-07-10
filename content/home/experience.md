@@ -48,6 +48,17 @@ experience:
         * Led a team of 3 people to implement the algorithm on a system consisted of the robot arm with a two-jaw parallel gripper and Kinect V2
         * Collaborated with LNC Technology, an automation company in Taiwan, for demonstrating random bin picking at 2019 Taiwan Automation Intelligence and Robot Show
 
+  - title: Intern
+    company: Department of Intelligent Machinery & Robot, Industrial Technology Research Institute (ITRI)
+    company_url: 'https://www.itri.org.tw/english/index.aspx'
+    company_logo:
+    location: Hsinchu, Taiwan
+    date_start: '2018-06-01'
+    date_end: '2018-09-30'
+    description: |2-
+        * Designed an image processing algorithm that can detect black and white stones on the chessboard
+        * Helped robot play five-in-a-row with human by adopting minimax algorithm and alpha-beta pruning
+
   - title: Undergraduate Researcher
     company: Bio-inspired Robotics Laboratory, ME Dept., National Taiwan University
     company_url: 'http://biorola.me.ntu.edu.tw/'
@@ -59,17 +70,6 @@ experience:
         * Led a team of 4 people to model the dung-rolling behavior of dung beetle and developed corresponding dung beetle robot that can reliably roll a ball
         * Designed trajectories and gait of each leg by observing how dung beetles synchronize their legs during the dung-rolling motion
         * Optimized the execution time of inchworm robot for wall-climbing and enhanced the speed of the movement by 60%
-
-  - title: Intern
-    company: Department of Intelligent Machinery & Robot, Industrial Technology Research Institute (ITRI)
-    company_url: 'https://www.itri.org.tw/english/index.aspx'
-    company_logo:
-    location: Hsinchu, Taiwan
-    date_start: '2018-06-01'
-    date_end: '2018-09-30'
-    description: |2-
-        * Designed an image processing algorithm that can detect black and white stones on the chessboard
-        * Helped robot play five-in-a-row with human by adopting minimax algorithm and alpha-beta pruning
 
   - title: Intern
     company: Department of Optical Mechanism, Test Research, Inc. (TRI)
