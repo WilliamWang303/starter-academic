@@ -72,4 +72,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate at UC Berkeley under the supervision of Prof. Masayoshi Tomizuka. My research interest lies in computer vision, motion planning and control with the focus on robotic manipulation and human-robot collaboration. I am recently interested in perception-driven motion planning and control with the application to task-oriented manipulation and in-hand manipulation. 
+I am a first-year Ph.D. student at UC Berkeley under the supervision of Prof. Masayoshi Tomizuka. My research interest lies in computer vision, motion planning and control with the focus on robotic manipulation and human-robot collaboration. I am recently interested in perception-driven motion planning and control with the application to task-oriented manipulation and in-hand manipulation. 
